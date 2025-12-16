@@ -10,6 +10,9 @@ TagManager:
   - Synty Medium Farm
   - Synty Tree
   - Synty Small Farm
+  - Weapon
+  - FxTemporaire
+  - Enemy
   layers:
   - Default
   - TransparentFX
